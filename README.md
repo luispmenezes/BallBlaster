@@ -1,6 +1,10 @@
 # BallBlaster
 Three-dimensional puzzle game where the goal is to match groups of four spheres of the same color. Made with OpenGL.
 
+[![Screen 1](https://github.com/luispmenezes/BallBlaster/blob/master/img_1.png)]
+
+[Demo](https://drive.google.com/open?id=0B3nMgJHBhW_QV0Y3MUt4eE9tMlU)
+
 ## The game
 ### Setup
 * Five different color spheres: red, green, blue, yellow and pink.
